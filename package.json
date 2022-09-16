@@ -1,0 +1,16 @@
+{
+  "name": "BlockBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "deploy": "node deploy_commands.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2",
+    "eslint": "^8.23.1",
+    "nodejs": "^0.0.0"
+  }
+}
